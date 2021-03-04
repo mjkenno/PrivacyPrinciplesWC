@@ -4,5 +4,5 @@ Assessment 1: IT and Law
 ## Privacy Checklist:
 
 ### Principle
-- [] ACTION
-- [] ACTION
+- [ ] ACTION
+- [ ] ACTION
