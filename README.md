@@ -32,7 +32,8 @@ Initially the only data that is collected is a first name, last name and email a
 If advertising a property to rent, information regarding your property is also required.
 
 ### Privacy Policy:
-[BookaBach Ltd Privacy Policy.docx](https://github.com/mjkenno/PrivacyPrinciplesWC/files/6080665/BookaBach.Ltd.Privacy.Policy.docx)
+[BookaBach Ltd Privacy Policy - 20210621.docx](https://github.com/mjkenno/PrivacyPrinciplesWC/files/6081815/BookaBach.Ltd.Privacy.Policy.-.20210621.docx)
+
 
 
 The privacy policy implements principles one and three by stating what personal data is being asked for and why and making sure that all data being asked for is relevent to the purpose of the website.
