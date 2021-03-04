@@ -23,3 +23,13 @@ Assessment 1: IT and Law
 - [ ] How long do we need to keep user information for to achieve our purpose? 
 - [ ] Do we have a policy in place about how to handle our users data when we no longer need it?
 
+
+## Privacy Policy:
+
+### Website: -----
+<--- Description here, wat type of data --->
+
+### Privacy Policy:
+<--- Privacy Policy here --->
+
+<--- Explanation of how it meets the checklist --->
