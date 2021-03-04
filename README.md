@@ -26,10 +26,13 @@ Assessment 1: IT and Law
 
 ## Privacy Policy:
 
-### Website: -----
-<--- Description here, wat type of data --->
+### Website: https://www.bookabach.co.nz/
+bookabach.co.nz is website that allows users to look for available holiday accomodation to rent or lets them advertise a property to be rented. 
+Initially the only data that is collected is a first name, last name and email address. There is optional information within a profile - an 'about yourself', contact phone number and home location - also payment details and information about your trip is required when completeing a booking.
+If advertising a property to rent information regarding your property is also required.
 
 ### Privacy Policy:
-<--- Privacy Policy here --->
+[BookaBach Ltd Privacy Policy.docx](https://github.com/mjkenno/PrivacyPrinciplesWC/files/6080665/BookaBach.Ltd.Privacy.Policy.docx)
+
 
 <--- Explanation of how it meets the checklist --->
