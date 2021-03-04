@@ -5,7 +5,7 @@ Assessment 1: IT and Law
 
 ### Principle 1 - Purpose of collection of personal information:
 - [ ] Is the user information we are collecting for lawful and ethical reasons?
-- [ ] Are we collecting the right information for our purpose, with collecting unecessary information?
+- [ ] Are we collecting the right information for our purpose, or are collecting unecessary information?
 
 ### Principle 3 - Collection of information from subject:
 - [ ] Does the user know why we are collecting their information?
