@@ -1,18 +1,19 @@
 # PrivacyPrinciplesWC
 Assessment 1: IT and Law
-
+<!-- nice work, perhaps some of the actionable items could be more specific: -->
 ## Privacy Checklist:
 
 ### Principle 1 - Purpose of collection of personal information:
-- [ ] Is the user information we are collecting for lawful and ethical reasons?
+- [ ] Is the user information we are collecting for lawful and ethical reasons? <!-- also necessary -->
 - [ ] Are we collecting the right information for our purpose, or are we collecting unecessary information?
 
 ### Principle 3 - Collection of information from subject:
 - [ ] Does the user know why we are collecting their information?
-- [ ] Does the user know who is receiving their information? Is it being passed on?
+- [ ] Does the user know who is receiving their information? Is it being passed on? <!-- excellent summary of secondary data use -->
 
 ### Principle 5 - Storage and security of personal information:
 - [ ] Are we taking necessary security steps to avoid the loss or misuse of user information?
+
 - [ ] Is our storage location (database/server) secure? Is this being regularly tested/maintained?
 
 ### Principle 6 - Access to personal information:
